@@ -1,0 +1,10 @@
+{
+  "description": "A recruiting and delivery platform for delivery heads, recruiters, and clients to manage hiring workflows and track progress with clear, mobile-friendly experiences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
